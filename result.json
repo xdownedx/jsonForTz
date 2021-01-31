@@ -3,38 +3,38 @@
   {
       "name": "String",
       "description": "String",
-      "icon": "link"
+      "icon": "link",
       "price": "322$"
   },
   {
       "name": "String",
       "description": "String",
-      "icon": "link"
+      "icon": "link",
       "price": "322$"
   },
   {
       "name": "String",
       "description": "String",
-      "icon": "link"
+      "icon": "link",
       "price": "322$"
   },
   {
       "name": "String",
       "description": "String",
-      "icon": "link"
+      "icon": "link",
       "price": "322$"
   },
   {
       "name": "String",
       "description": "String",
-      "icon": "link"
+      "icon": "link",
       "price": "322$"
   },
   {
       "name": "String",
       "description": "String",
-      "icon": "link"
+      "icon": "link",
       "price": "322$"
-  },
+  }
   ] 
 }
