@@ -1,0 +1,40 @@
+{
+  "result":
+  [
+    {
+        "name": "Chevrolet Impala",
+        "description": "Cкорость 200 км/ч., мощность 385 л.с., разгон до 100 км/ч. 7.5 сек.",
+        "icon": "https://sun9-38.userapi.com/impg/jy8F0LpswlgxQLL8xQM_iYh6qGa4MdB02dsL8A/WEfYKX5ZkwE.jpg?size=414x300&quality=96&proxy=1&sign=a473709855f09051cc3a0280331a3302&type=album",
+        "price": "12499$",
+        "number": "+79998751997"
+    },
+   {
+        "name": "Mitsubishi Pajero",
+        "description": "Бензиновый двигатель, 3.0, мощность 174 л.с., АКПП, полный привод, разгон до 100 км/ч. 13.6 сек",
+        "icon": "https://sun9-57.userapi.com/impg/vjsLumckBDPfobh7sqlhQ_LpArm5V6cq5uvcHg/8MsFCx7Bi2s.jpg?size=414x300&quality=96&proxy=1&sign=57daa5f7210e0035669233901861a19c&type=album",
+        "price": "14569$",
+        "number": "+79998751997"
+    },
+   {
+        "name": "Audi A5",
+        "description": "Двигатель бензин, 2.0, 190 л.с., Коробка передач: Робот, 7 ступеней,Передний привод,Разгон до 100 км/ч, 7.3 сек",
+        "icon": "https://sun9-37.userapi.com/impg/BB1b4Avspg3Zs361z6Z8htiqtK5xl0zAwI3bjA/-aEm37w1ndQ.jpg?size=414x300&quality=96&proxy=1&sign=8d14d7c0095a9adcd687979fe1a179e1&type=album",
+        "price": "60349$",
+        "number": "+79998751997"
+    },
+    {
+        "name": "Jaguar E-Pace",
+        "description": "Двигатель бензин,  2.0, 249 л.с., Коробка передач: Автоматическая, Полный привод, Разгон до 100 км/ч, 7.4 сек",
+        "icon": "https://sun9-60.userapi.com/impg/p_mbwZZNqWqdgbTZ49TZk6LSzvYHXhLZujsuLA/WCFxLnTAm8Y.jpg?size=414x300&quality=96&proxy=1&sign=91e3f20b544300b3789ad647670feb0d&type=album",
+        "price": "50780$",
+        "number": "+79998751997"
+    },
+    {
+        "name": "Tayota Camry",
+        "description": "Двигатель бензин,  3.5, 249 л.с., Коробка передач: Автоматическая, Передний привод, Разгон до 100 км/ч, 7.7 сек",
+        "icon": "https://sun9-2.userapi.com/impg/76BqdMk23b64OgAaWz39HVhEiQswiL8zNUFFxg/jQrzWxGbuF4.jpg?size=414x300&quality=96&proxy=1&sign=c8d09161fdebfbce250f2ec75c62575a&type=album",
+        "price": "15499$",
+        "number": "+79998751997"
+    }
+  ] 
+}
